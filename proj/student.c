@@ -25,7 +25,6 @@ void createStudent(char* fname, char* lname, int age, int id)
   // student to the student array
   //  - the firstName and lastName strings should be dynamically created
   //    based on the size of the fname and lname args
-  
 }
 
 
